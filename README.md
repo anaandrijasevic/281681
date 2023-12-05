@@ -18,6 +18,8 @@ Additionally we used Scikit-learn for training models, and Pandas for data proce
 
 We employed class weights to manage unbalanced datasets and concentrated on the appropriateness of Random Forests, Decision Trees, and Logistic Regression for classification tasks. These models were selected based on how well they handled binary classification issues and how easily they could be understood. By enclosing the environment setting in a Conda environment, which makes it simple to duplicate, we assured repeatability.
 
+A small aparte we obviously checked for missing value that were non existent and for outliners that were non existent too.
+
 
 ## EXPERIMENTAL DESIGN
 Our tests were conducted with the aim of determining the optimal model for SMS fraud detection. Our baseline models were the selected algorithms' default settings. Since these metrics are important for evaluating the performance of classification models, particularly in unbalanced datasets, we used accuracy, precision, recall, and F1 score as our evaluation metrics.  
