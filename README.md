@@ -1,6 +1,11 @@
 ## INTRODUCTION
 Project 4: SafeComm Digital Security Solutions uses machine learning to identify phoney SMS texts. The initiative aims to automatically detect possible fraud by examining trends in message data, improving digital security for communication networks.
 
+## MEMEBERS
+Ana Andrijasevic
+Kalkidan Mezgebe
+Cherine Abboud
+
 ## METHODS
 We decided to use Python for this project in a Jupyter Notebook setting, utilising packages like Matplotlib for visualisation  step that gave us the possibility of creating many graphs covering fews subjects as :
 
