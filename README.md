@@ -1,4 +1,4 @@
-*[Section 1] Introduction*
+## Introduction*
 
 Project 4: SafeComm Digital Security Solutions focuses on developing a predictive model to identify fraudulent SMS messages. The aim is to enhance digital security and safeguard users by filtering potential scams or fraudulent activities conveyed through text messages. 
 
